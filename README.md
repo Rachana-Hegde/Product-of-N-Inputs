@@ -1,7 +1,3 @@
-Here's a concise and clear **README.md** for your small Python program that calculates the **product of N inputs**:
-
----
-
 # ✖️ Product of N Inputs – Python Program
 
 This is a simple Python program that calculates the **product of N user-entered numbers**. It uses a `while` loop to take multiple inputs and multiplies them to return the final product.
