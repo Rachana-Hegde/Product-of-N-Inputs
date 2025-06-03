@@ -48,4 +48,7 @@ python product_calculator.py
 * Useful for practicing **loops**, **input handling**, and **basic arithmetic operations**.
 * Can be modified to compute **sum**, **average**, or **factorial-like operations**.
 
-## 
+## 📬 Contact  
+
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
